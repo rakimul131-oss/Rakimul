@@ -1,17 +1,17 @@
-RT TOP UP// =======================================================
-// WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+// WEBSITE NAME (RT TOP UP)
+// =======================================================
+var website_name = "RT";
 RT TOP UP
+// =====================================================
+// TELEGRAM CHANNEL LINK
 // =======================================================
-rttopup69// TELEGRAM CHANNEL LINK
-// =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "rttopup69";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "rttopup69";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
